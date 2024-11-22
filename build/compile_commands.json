@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/chinyakov/CLionProjects/graph_lab_boruvka`s_algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/graph_lab2.dir/main.cpp.o -c \"/home/chinyakov/CLionProjects/graph_lab_boruvka\\`s_algorithm/main.cpp\"",
+  "file": "/home/chinyakov/CLionProjects/graph_lab_boruvka`s_algorithm/main.cpp",
+  "output": "CMakeFiles/graph_lab2.dir/main.cpp.o"
+}
+]

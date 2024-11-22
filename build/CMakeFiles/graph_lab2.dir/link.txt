@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/graph_lab2.dir/main.cpp.o -o graph_lab2 
